@@ -5,6 +5,9 @@ notes about what I find useful
 
 - [Audio AR: An Introduction](https://medium.com/labs-notebook/audio-ar-an-introduction-698661405ff4)
 
+# Creative Coding
+
+- [Animation interpolation functions and easing modes](https://easings.net/)
 
 # Software development
 
