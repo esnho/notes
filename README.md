@@ -8,6 +8,7 @@ notes about what I find useful
 # Creative Coding
 
 - [Animation interpolation functions and easing modes](https://easings.net/)
+- [In browser audio analysis](https://meyda.js.org/)
 
 # Software development
 
