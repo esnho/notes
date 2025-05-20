@@ -10,6 +10,7 @@ notes about what I find useful
 - [Animation interpolation functions and easing modes](https://easings.net/)
 - [In browser audio analysis](https://meyda.js.org/)
 - [Strudel, an in browser open source alternative to tydalcycles](https://strudel.cc/)
+- [Trystero a peer2peer library for browsers](https://oxism.com/trystero/)
 
 # Software development
 
