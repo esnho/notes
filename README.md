@@ -24,3 +24,7 @@ notes about what I find useful
 # 3D
 
 - [Optimizing CAD Data for Real-Time 3D Visualization](https://create.unity.com/optimizing-cad-data-for-real-time-3d-visualization-form)
+
+# Video
+
+- [PAPERS by Yoshinao Satoh](https://www.youtube.com/watch?v=56EG957YinM)
