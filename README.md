@@ -28,3 +28,4 @@ notes about what I find useful
 # Video
 
 - [PAPERS by Yoshinao Satoh](https://www.youtube.com/watch?v=56EG957YinM)
+- [Experiments in Motion Graphics](https://www.youtube.com/watch?v=FdRE8q5TBJ0)
