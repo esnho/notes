@@ -1,5 +1,5 @@
 # notes
-notes about what I find useful
+notes about what I find useful or beatiful
 
 # Augmented Reality
 
@@ -11,6 +11,7 @@ notes about what I find useful
 - [In browser audio analysis](https://meyda.js.org/)
 - [Strudel, an in browser open source alternative to tydalcycles](https://strudel.cc/)
 - [Trystero a peer2peer library for browsers](https://oxism.com/trystero/)
+- [Interactive 3D rendering in-browser demo](https://renderqueue.dev/)
 
 # Software development
 
