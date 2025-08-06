@@ -30,3 +30,7 @@ notes about what I find useful or beatiful
 
 - [PAPERS by Yoshinao Satoh](https://www.youtube.com/watch?v=56EG957YinM)
 - [Experiments in Motion Graphics](https://www.youtube.com/watch?v=FdRE8q5TBJ0)
+
+# Graphic
+
+- [Google font collection Figma by @mikesmith](https://www.figma.com/design/lWrI14bRsS1axkjXRNG442/Usable-Google-Fonts?node-id=0-1&t=YpBkTx0RBFUfhQUG-1)
