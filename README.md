@@ -25,6 +25,7 @@ notes about what I find useful or beatiful
 # 3D
 
 - [Optimizing CAD Data for Real-Time 3D Visualization](https://create.unity.com/optimizing-cad-data-for-real-time-3d-visualization-form)
+- [Three JS Resources](https://threejsresources.com/)
 
 # Video
 
