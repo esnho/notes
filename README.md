@@ -12,6 +12,7 @@ notes about what I find useful or beatiful
 - [Strudel, an in browser open source alternative to tydalcycles](https://strudel.cc/)
 - [Trystero a peer2peer library for browsers](https://oxism.com/trystero/)
 - [Interactive 3D rendering in-browser demo](https://renderqueue.dev/)
+- [Tixy - Matrix browser live coding](https://tixy.land/)
 
 # Software development
 
