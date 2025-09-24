@@ -22,6 +22,7 @@ notes about what I find useful or beatiful
 # Electronics
 
 - [A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages, by Jack Ganssle](https://www.ganssle.com/debouncing.htm)
+- [Connectors identification](https://connectorbook.com/identification.html?Q=)
 
 # 3D
 
