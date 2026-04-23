@@ -39,6 +39,7 @@ notes about what I find useful or beatiful
 - [Google font collection Figma by @mikesmith](https://www.figma.com/design/lWrI14bRsS1axkjXRNG442/Usable-Google-Fonts?node-id=0-1&t=YpBkTx0RBFUfhQUG-1)
 - [Texture Labs (free textures)](https://texturelabs.org/)
 - [Texture Fabrik (free textures)](https://texturefabrik.com/)
+- [5x5 Font and 3x5 Font](https://maurycyz.com/projects/mcufont/)
 
 # AI
 - [Prompt engineering guide](https://www.promptingguide.ai/)
