@@ -23,6 +23,7 @@ notes about what I find useful or beatiful
 
 - [A Guide to Debouncing, or, How to Debounce a Contact in Two Easy Pages, by Jack Ganssle](https://www.ganssle.com/debouncing.htm)
 - [Connectors identification](https://connectorbook.com/identification.html?Q=)
+- [Calculators](https://cofree.coffee/~solomon/calculators/)
 
 # 3D
 
