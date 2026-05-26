@@ -14,6 +14,7 @@ notes about what I find useful or beatiful
 - [Interactive 3D rendering in-browser demo](https://renderqueue.dev/)
 - [Tixy - Matrix browser live coding](https://tixy.land/)
 - [Inspirational guide to watercolor simulation](https://www.tylerxhobbs.com/words/a-guide-to-simulating-watercolor-paint-with-generative-art)
+- [Edoardo Lunardi Portfolio](https://www.edoardolunardi.dev/)
 
 # Software development
 
