@@ -46,4 +46,5 @@ notes about what I find useful or beatiful
 
 # AI
 - [Prompt engineering guide](https://www.promptingguide.ai/)
+- [agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
 
