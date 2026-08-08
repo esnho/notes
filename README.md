@@ -44,6 +44,8 @@ notes about what I find useful or beatiful
 - [Texture Fabrik (free textures)](https://texturefabrik.com/)
 - [5x5 Font and 3x5 Font](https://maurycyz.com/projects/mcufont/)
 
+# Various
+- [Calculate sun visibility](https://www.suncalc.org/)
 # AI
 - [Prompt engineering guide](https://www.promptingguide.ai/)
 - [agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
