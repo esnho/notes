@@ -43,6 +43,7 @@ notes about what I find useful or beatiful
 - [Texture Labs (free textures)](https://texturelabs.org/)
 - [Texture Fabrik (free textures)](https://texturefabrik.com/)
 - [5x5 Font and 3x5 Font](https://maurycyz.com/projects/mcufont/)
+- [Inspirational design](https://www.inspora.design/)
 
 # Web Design
 
