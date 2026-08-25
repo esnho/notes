@@ -44,6 +44,12 @@ notes about what I find useful or beatiful
 - [Texture Fabrik (free textures)](https://texturefabrik.com/)
 - [5x5 Font and 3x5 Font](https://maurycyz.com/projects/mcufont/)
 
+# Web Design
+
+- [Beautiful UI for AI-native interfaces.](https://www.beautifului.dev/)
+- [Animated components for React and Next.js](https://beui.dev/)
+- [Design system generator](https://ui.shadcn.com/)
+
 # Various
 - [Calculate sun visibility](https://www.suncalc.org/)
 # AI
