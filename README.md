@@ -36,6 +36,7 @@ notes about what I find useful or beatiful
 
 - [PAPERS by Yoshinao Satoh](https://www.youtube.com/watch?v=56EG957YinM)
 - [Experiments in Motion Graphics](https://www.youtube.com/watch?v=FdRE8q5TBJ0)
+- [Footage sourced from the public-domain/unrestricted FedFlix archive](https://destockd.com/)
 
 # Graphic
 
