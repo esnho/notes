@@ -51,6 +51,8 @@ notes about what I find useful or beatiful
 - [Beautiful UI for AI-native interfaces.](https://www.beautifului.dev/)
 - [Animated components for React and Next.js](https://beui.dev/)
 - [Design system generator](https://ui.shadcn.com/)
+- [Runeicons - Modern icon
+system for products](https://www.runeicons.com/)
 
 # Various
 - [Calculate sun visibility](https://www.suncalc.org/)
