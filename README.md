@@ -45,6 +45,7 @@ notes about what I find useful or beatiful
 - [Texture Fabrik (free textures)](https://texturefabrik.com/)
 - [5x5 Font and 3x5 Font](https://maurycyz.com/projects/mcufont/)
 - [Inspirational design](https://www.inspora.design/)
+- [Gradients editor](https://gradients.fyi/editor#s=N4IgbiBcCMA0IAcD2BLAdgFwM5QNq4AYA6aADgGYA2WYgdgIFZq6AmGkgFlgYffNJo0AurEJF6LAcRYdJ7BlJLUAnL2KzBBEWMprxbdXuhtoe8muGjW0ZkXIdbpA0QIDaergWEiQAIwDmeMSUBJS07Iwa0AS0RMrQ0LQ+AE4AhigANnggACYoGAAWAKbJID5FAGYVRQDG2FCgeYUlDSAZRWBFGTiQbCA1SJhpWBhQxObwALapGMkoAB4AyigAXkVQIKQgAL7w-mnoraloKNMY65AVqd1F23dAA)
 
 # Web Design
 
