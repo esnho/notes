@@ -57,6 +57,7 @@ system for products](https://www.runeicons.com/)
 
 # Various
 - [Calculate sun visibility](https://www.suncalc.org/)
+- [Mappe topografiche gratuite](https://it-it.topographic-map.com/)
 # AI
 - [Prompt engineering guide](https://www.promptingguide.ai/)
 - [agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
