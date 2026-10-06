@@ -55,6 +55,7 @@ notes about what I find useful or beatiful
 - [Design system generator](https://ui.shadcn.com/)
 - [Runeicons - Modern icon
 system for products](https://www.runeicons.com/)
+- [Open source background shaders and fxs for frontend frameworks](https://github.com/shader-effects-inc/shaders)
 
 # Various
 - [Calculate sun visibility](https://www.suncalc.org/)
