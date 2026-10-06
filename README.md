@@ -15,6 +15,7 @@ notes about what I find useful or beatiful
 - [Tixy - Matrix browser live coding](https://tixy.land/)
 - [Inspirational guide to watercolor simulation](https://www.tylerxhobbs.com/words/a-guide-to-simulating-watercolor-paint-with-generative-art)
 - [Edoardo Lunardi Portfolio](https://www.edoardolunardi.dev/)
+- [Windfoil paper](https://github.com/texel-org/windfoil-paper)
 
 # Software development
 
